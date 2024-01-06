@@ -7,6 +7,7 @@ import postRoutes from './routes/PostRoutes.js';
 import messageRoutes from './routes/messageRoutes.js';
 import  {v2 as cloudinary} from 'cloudinary';
 import {app, server} from './socket/socket.js'
+import path  from 'path';
 dotenv.config()
 
 const port = 8080
@@ -17,7 +18,7 @@ cloudinary.config({
     api_secret: process.env.CLOUDINARY_API_SECRET,
   });
 
-app.use(express.static('dist'))
+app.use(express.static(path.resolve(__dirname,'dist')))
 ConnectDB()
 app.use(express.json({limit:"50mb"}))
 app.use(express.urlencoded({extended:true}))
