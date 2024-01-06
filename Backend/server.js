@@ -7,7 +7,7 @@ import postRoutes from './routes/PostRoutes.js';
 import messageRoutes from './routes/messageRoutes.js';
 import  {v2 as cloudinary} from 'cloudinary';
 import {app, server} from './socket/socket.js'
-import path  from 'path';
+
 dotenv.config()
 
 const port = 8080
