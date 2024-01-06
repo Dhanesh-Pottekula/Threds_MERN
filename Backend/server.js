@@ -17,7 +17,7 @@ cloudinary.config({
     api_secret: process.env.CLOUDINARY_API_SECRET,
   });
 
-
+app.use(express.static('dist'))
 ConnectDB()
 app.use(express.json({limit:"50mb"}))
 app.use(express.urlencoded({extended:true}))
