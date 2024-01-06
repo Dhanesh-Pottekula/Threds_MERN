@@ -9,7 +9,7 @@ import {
   Text,
 } from "@chakra-ui/react";
 import React, { useEffect, useState } from "react";
-import { BsThreeDots } from "react-icons/bs";
+
 import Actions from "../components/Actions";
 import Comment from "../components/Comment";
 import useGetUserProfile from "../hooks/useGetUserProfile";
