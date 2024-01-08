@@ -48,18 +48,18 @@ Follow the Installation section in the README to set up the application locally 
 - [License](#license)
 
 ## Installation
-  clone the git repository to your local storage by using "git clone 
+
 
 ### Frontend
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: [`git clone https://github.com/your-username/your-repo.git](https://github.com/Dhanesh-Pottekula/Threds_MERN.git)`
 2. Navigate to the `frontend` directory: `cd frontend`
 3. Install dependencies: `npm install`
 4. Start the application: `npm start`
 
 ### Backend
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/your-username/your-repo.git](https://github.com/Dhanesh-Pottekula/Threds_MERN.git)`
 2. Navigate to the `backend` directory: `cd backend`
 3. Install dependencies: `npm install`
 4. Set up the MongoDB database (provide connection details)
@@ -67,7 +67,12 @@ Follow the Installation section in the README to set up the application locally 
 
 ## Usage
 
-Explain how to use your application, including any important setup or configuration steps. Provide examples or code snippets if necessary.
+enter the login credentials to access the app. is you are new user please do SignUp first.
+the default page is the feed page where you can get the posts of the users that you are following. 
+the profile page and chat page can be accessed from the feed page.
+in profile page you can find a feture to post a New Post.
+"@" symbole in every page can toggle the theme.
+
 
 ## Features
 
@@ -85,7 +90,7 @@ List and briefly describe the key features of your application. Include any rele
 
 ## Screenshots
 
-Include screenshots or GIFs showcasing the UI and functionality of your application.
+
 
 ## Technologies Used
 
@@ -97,9 +102,7 @@ Include screenshots or GIFs showcasing the UI and functionality of your applicat
 - Tailwind CSS
 - Socket.io
 
-## Contributing
 
-Explain how others can contribute to your project. Include guidelines for submitting issues, feature requests, or pull requests.
 
 ## License
 
