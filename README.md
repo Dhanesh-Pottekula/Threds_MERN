@@ -89,7 +89,11 @@ List and briefly describe the key features of your application. Include any rele
 - Chatting Feature
 
 ## Screenshots
-
+https://github.com/Dhanesh-Pottekula/Threds_MERN/blob/main/pics/Screenshot%202024-01-08%20at%204.12.03%E2%80%AFPM.png
+https://github.com/Dhanesh-Pottekula/Threds_MERN/blob/main/pics/Screenshot%202024-01-08%20at%204.12.20%E2%80%AFPM.png
+https://github.com/Dhanesh-Pottekula/Threds_MERN/blob/main/pics/Screenshot%202024-01-08%20at%204.13.02%E2%80%AFPM.png
+https://github.com/Dhanesh-Pottekula/Threds_MERN/blob/main/pics/Screenshot%202024-01-08%20at%204.13.36%E2%80%AFPM.png
+https://github.com/Dhanesh-Pottekula/Threds_MERN/blob/main/pics/Screenshot%202024-01-08%20at%204.13.48%E2%80%AFPM.png
 
 
 ## Technologies Used
